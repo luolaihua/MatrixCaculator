@@ -17,6 +17,7 @@ public class FourCompute extends BaseActivity implements View.OnClickListener{
             edt2_9,edt2_10,edt2_11,edt2_12,edt2_13,edt2_14,edt2_15;
 
     private int flag = 1;
+    //testing...
 
     private double[][] m = new double[4][4];
     private double[][] n = new double[4][4];
